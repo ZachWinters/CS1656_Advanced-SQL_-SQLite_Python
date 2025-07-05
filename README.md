@@ -2,12 +2,12 @@
 ## Overview
 This project demonstrates my ability to work with SQLite databases in Python with use of PANDAS to perform complex data analysis tasks. I created a database system for managing student course data, including students, courses, grades, and majors then wrote SQL queries to extract meaningful insights from this data
 
-## Porject Structure
+## Project Structure
 * Database Schema: Created tables for Students, Courses, Grades, and Majors with appropriate relationships
 * Data Loading: Implemented functionality to load data from CSV files into SQL lite database
 * Data Analysis: Developed several analytical queries to answer specific questions about the data
 
-# Analytical Queries
+## Analytical Queries
 1. Courses Passed Per Student Per Semester
    * Counted courses passed (grade>0) and grouped by student, year, and semester
    * Sorted the results by student ID, year, and semester
