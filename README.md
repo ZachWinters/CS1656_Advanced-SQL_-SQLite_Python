@@ -19,7 +19,7 @@ This project demonstrates my ability to work with SQLite databases in Python wit
    * Identified the students who failed (grade=0) courses in their declared majors
    * Implemented using both the view and direct table joins
 4. Professor Sucess Metrics
-   * Ranked the prfoessors by the success of students (count of students passing with grade>=2)
+   * Ranked the professors by the success of students (count of students passing with grade>=2)
    * Sorted success rates (descending) and the professor names (ascending)
 5. Course Performance Report
    * Generated a complrehensive report showing:
